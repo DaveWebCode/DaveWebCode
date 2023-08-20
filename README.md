@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-In 2023, my career as a web developer began. Before that, I had worked in the IT sector for many years, sometimes holding managerial positions. I led a team of designers and web developers for 2 years. Deep down, I was fond of the front-end developer profession and decided to pursue it in 2023. I completed a web developer course at LoftSchool, where I learned HTML5, CSS3, JavaScript, jQuery, Gulp, Webpack, and other tools. Currently, I am delving deeper into JavaScript at a more professional level and then plan to further my skills as a front-end developer. I'm now looking for a job and simultaneously learning about things that will be beneficial for my work.
+In 2023, my career as a web developer began. Before that, I had worked in the IT sector for many years. I led a team of designers and web developers for 2 years. Deep down, I was fond of the front-end developer profession and decided to pursue it in 2023. I completed a web developer course at LoftSchool, where I learned HTML5, CSS3, JavaScript, jQuery, Gulp, Webpack, and other tools. Currently, I am delving deeper into JavaScript at a more professional level and then plan to further my skills as a front-end developer. I'm now looking for a job and simultaneously learning about things that will be beneficial for my work.
 
 *   🌍  I'm based in Georgia
 *   ✉️  You can contact me at [itruecode@gmail.com](mailto:itruecode@gmail.com)
