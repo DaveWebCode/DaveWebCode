@@ -13,7 +13,7 @@ I identify and quickly close any knowledge gaps to offer the employer and team v
 
 *   🌍  I'm based in Georgia
 *   ✉️  You can contact me at [itruecode@gmail.com](mailto:itruecode@gmail.com)
-*   🧠  I'm learning JavaScript ES6
+*   🧠  I'm learning Vue.js and React
   
 ### Technologies  
 <div align="left">  
