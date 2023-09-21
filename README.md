@@ -1,8 +1,8 @@
 Hi! My name is Davit
 =============================================================================================================================
 
-Web Developer
--------------
+I'm Junior Front End Developer
+------------------------------
 
 In 2023, my career as a web developer began. Before that, I had worked in the IT sector for many years. Deep down, I was fond of the front-end developer profession and decided to pursue it in 2023. I completed web developer courses at LoftSchool, where I learned HTML5, CSS3, JavaScript, jQuery, Gulp, Webpack, and many other tools. Currently, I am delving deeper into JavaScript at a more professional level and then plan to further my skills as a front-end developer. I'm now looking for a job and simultaneously learning about things that will be beneficial for my work.
 
