@@ -4,7 +4,12 @@ Hi! My name is Davit
 I'm Junior Front End Developer
 ------------------------------
 
-In 2023, my career as a web developer began. Before that, I had worked in the IT sector for many years. Deep down, I was fond of the front-end developer profession and decided to pursue it in 2023. I completed web developer courses at LoftSchool, where I learned HTML5, CSS3, JavaScript, jQuery, Gulp, Webpack, and many other tools. Currently, I am delving deeper into JavaScript at a more professional level and then plan to further my skills as a front-end developer. I'm now looking for a job and simultaneously learning about things that will be beneficial for my work.
+I'm writing clean, semantic, and beautiful code.
+I am fluent in HTML, CSS, JavaScript, and the necessary technologies for Web Developers, such as Gulp,
+WebPack, NPM, Node.js, etc.
+
+Currently, I'm studying Vue.js and React at LoftSchool and seeking an opportunity to begin a career. 
+I identify and quickly close any knowledge gaps to offer the employer and team value.
 
 *   🌍  I'm based in Georgia
 *   ✉️  You can contact me at [itruecode@gmail.com](mailto:itruecode@gmail.com)
